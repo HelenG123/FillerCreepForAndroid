@@ -7,6 +7,8 @@ ADDED from /afs/ualberta.ca/home/g/e/gezahegn/Documents/CMPUT 301/FillerCreepFor
 		INJECTED from /afs/ualberta.ca/home/g/e/gezahegn/Documents/CMPUT 301/FillerCreepForAndroid/app/src/main/AndroidManifest.xml
 	android:versionName
 		ADDED from /afs/ualberta.ca/home/g/e/gezahegn/Documents/CMPUT 301/FillerCreepForAndroid/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /afs/ualberta.ca/home/g/e/gezahegn/Documents/CMPUT 301/FillerCreepForAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/g/e/gezahegn/Documents/CMPUT 301/FillerCreepForAndroid/app/src/main/AndroidManifest.xml
 	android:versionCode
 		ADDED from /afs/ualberta.ca/home/g/e/gezahegn/Documents/CMPUT 301/FillerCreepForAndroid/app/src/main/AndroidManifest.xml:4:5-28
 		INJECTED from /afs/ualberta.ca/home/g/e/gezahegn/Documents/CMPUT 301/FillerCreepForAndroid/app/src/main/AndroidManifest.xml
